@@ -1,0 +1,18 @@
+{
+  "area_meters": 120,
+  "condition": 2,
+  "rooms": 3,
+  "floor": 3,
+  "build_year": 1998,
+  "terrass": 1,
+  "balcony": 1,
+  "sauna": 1,
+  "pool": 1,
+  "linnaosa": "Kadriorg",
+  "house_material": "betoonmaja",
+  "heating": [
+    "elektriküte",
+    "gaasiküte"
+  ],
+  "energy_class": "a"
+}

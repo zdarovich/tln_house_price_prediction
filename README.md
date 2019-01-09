@@ -8,3 +8,5 @@
 - /models - .pkl files that contain exported models, csv files used in code of backend
 - house_prediction.ipynb - jupyter notebook file with data proccessing code
 - house_price_model.ipynb - jupyter notebook file with model code and proccessing
+
+https://github.com/zdarovich/tln_house_price_prediction
